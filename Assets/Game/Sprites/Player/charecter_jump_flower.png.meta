@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: 17732c8ecc32a4e1bba9ba5ea35f5425
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2896866025357143401
+    second: charecter_jump_flower_0
+  - first:
+      213: -8986676691759849152
+    second: charecter_jump_flower_1
+  - first:
+      213: -8262063604169195273
+    second: charecter_jump_flower_2
+  - first:
+      213: 1868354927306058215
+    second: charecter_jump_flower_3
+  - first:
+      213: -2133780326735924380
+    second: charecter_jump_flower_4
+  - first:
+      213: 6308529673848619014
+    second: charecter_jump_flower_5
+  - first:
+      213: 3913622882793726146
+    second: charecter_jump_flower_6
+  - first:
+      213: -1243006215825801258
+    second: charecter_jump_flower_7
+  - first:
+      213: 2466202890741499728
+    second: charecter_jump_flower_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1900
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: charecter_jump_flower_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17425
+        width: 5305
+        height: 3641
+      alignment: 9
+      pivot: {x: 0.46270075, y: 0.5501048}
+      border: {x: 0, y: 70, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d6f434d4cb33820800000000000000
+      internalID: 2896866025357143401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charecter_jump_flower_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12985
+        width: 5190
+        height: 3816
+      alignment: 9
+      pivot: {x: 0.46542734, y: 0.4999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0412f5c8929e84380800000000000000
+      internalID: -8986676691759849152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charecter_jump_flower_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8636
+        width: 5213
+        height: 3585
+      alignment: 9
+      pivot: {x: 0.46450543, y: 0.49999946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0cfc12de0475d80800000000000000
+      internalID: -8262063604169195273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charecter_jump_flower_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4172
+        width: 5227
+        height: 3724
+      alignment: 9
+      pivot: {x: 0.47345036, y: 0.47515652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9ad6c48eabde910800000000000000
+      internalID: 1868354927306058215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charecter_jump_flower_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 5097
+        height: 3571
+      alignment: 9
+      pivot: {x: 0.4954623, y: 0.4611383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463303c191a4362e0800000000000000
+      internalID: -2133780326735924380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charecter_jump_flower_5
+      rect:
+        serializedVersion: 2
+        x: 6554
+        y: 11157
+        width: 5167
+        height: 3863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60002c870566c8750800000000000000
+      internalID: 6308529673848619014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charecter_jump_flower_6
+      rect:
+        serializedVersion: 2
+        x: 6392
+        y: 7318
+        width: 5329
+        height: 3631
+      alignment: 9
+      pivot: {x: 0.5145238, y: 0.53178626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0a2c1d64bff4630800000000000000
+      internalID: 3913622882793726146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charecter_jump_flower_7
+      rect:
+        serializedVersion: 2
+        x: 6392
+        y: 3641
+        width: 5329
+        height: 3608
+      alignment: 9
+      pivot: {x: 0.50952315, y: 0.53080744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfb914be64ffbee0800000000000000
+      internalID: -1243006215825801258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charecter_jump_flower_8
+      rect:
+        serializedVersion: 2
+        x: 6392
+        y: 0
+        width: 5329
+        height: 3439
+      alignment: 9
+      pivot: {x: 0.51724297, y: 0.5121452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05740be6676b93220800000000000000
+      internalID: 2466202890741499728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

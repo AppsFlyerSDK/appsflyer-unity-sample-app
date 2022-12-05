@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 05cd2487efeae45e187c2e58588b92ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9025506229401271807
+    second: Runing2_0
+  - first:
+      213: -7822407773071404437
+    second: Runing2_1
+  - first:
+      213: 4014672898754057406
+    second: Runing2_2
+  - first:
+      213: 9162418472768089684
+    second: Runing2_3
+  - first:
+      213: -5113249218759224533
+    second: Runing2_4
+  - first:
+      213: 6191399686595471193
+    second: Runing2_5
+  - first:
+      213: -5909860377419013212
+    second: Runing2_6
+  - first:
+      213: -2468467033055753586
+    second: Runing2_7
+  - first:
+      213: 4954836326529522556
+    second: Runing2_8
+  - first:
+      213: -901187154148636404
+    second: Runing2_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Runing2_0
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 21027
+        width: 5066
+        height: 4126
+      alignment: 9
+      pivot: {x: 0.4729416, y: 0.71444046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdb981b81a014d70800000000000000
+      internalID: 9025506229401271807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Runing2_1
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 0
+        width: 4302
+        height: 4045
+      alignment: 9
+      pivot: {x: 0.5298619, y: 0.6497213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6213d54399317390800000000000000
+      internalID: -7822407773071404437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Runing2_2
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 4997
+        width: 5122
+        height: 4590
+      alignment: 9
+      pivot: {x: 0.48566797, y: 0.6319441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb49f931bbbf6b730800000000000000
+      internalID: 4014672898754057406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Runing2_3
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 10395
+        width: 4921
+        height: 4583
+      alignment: 9
+      pivot: {x: 0.45566088, y: 0.59521794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ea1d07e03772f70800000000000000
+      internalID: 9162418472768089684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Runing2_4
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 15765
+        width: 4723
+        height: 4555
+      alignment: 9
+      pivot: {x: 0.4551456, y: 0.582075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2310db3de61a09b0800000000000000
+      internalID: -5113249218759224533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Runing2_5
+      rect:
+        serializedVersion: 2
+        x: 6791
+        y: 0
+        width: 5004
+        height: 4457
+      alignment: 9
+      pivot: {x: 0.5586802, y: 0.6564695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957ecf526354ce550800000000000000
+      internalID: 6191399686595471193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Runing2_6
+      rect:
+        serializedVersion: 2
+        x: 6819
+        y: 4933
+        width: 4976
+        height: 4646
+      alignment: 9
+      pivot: {x: 0.5516344, y: 0.6540544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3a8cb6c45fbfda0800000000000000
+      internalID: -5909860377419013212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Runing2_7
+      rect:
+        serializedVersion: 2
+        x: 6763
+        y: 10139
+        width: 5032
+        height: 5150
+      alignment: 9
+      pivot: {x: 0.5780497, y: 0.6694694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a03fadf4e3ebdd0800000000000000
+      internalID: -2468467033055753586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Runing2_8
+      rect:
+        serializedVersion: 2
+        x: 6819
+        y: 15485
+        width: 4976
+        height: 4591
+      alignment: 9
+      pivot: {x: 0.5263095, y: 0.63307285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b5efa136d13c440800000000000000
+      internalID: 4954836326529522556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Runing2_9
+      rect:
+        serializedVersion: 2
+        x: 6595
+        y: 20804
+        width: 5200
+        height: 4254
+      alignment: 9
+      pivot: {x: 0.5322966, y: 0.6776545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0943d8de075e73f0800000000000000
+      internalID: -901187154148636404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 1e4cebc50db834062b3a929e263e3da0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7671459106730335754
+    second: Character_frunning_flower_0
+  - first:
+      213: -6661888181668714785
+    second: Character_frunning_flower_1
+  - first:
+      213: 4180438864066148943
+    second: Character_frunning_flower_2
+  - first:
+      213: 5790926682979741414
+    second: Character_frunning_flower_3
+  - first:
+      213: 2450576326806430685
+    second: Character_frunning_flower_4
+  - first:
+      213: 332794316349037636
+    second: Character_frunning_flower_5
+  - first:
+      213: 5666755943067014839
+    second: Character_frunning_flower_6
+  - first:
+      213: -9051292088656010131
+    second: Character_frunning_flower_7
+  - first:
+      213: -4819005048558580591
+    second: Character_frunning_flower_8
+  - first:
+      213: 2870475049046894054
+    second: Character_frunning_flower_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character_frunning_flower_0
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 0
+        width: 4736
+        height: 4440
+      alignment: 9
+      pivot: {x: 0.5337631, y: 0.60168666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ed895996f767a60800000000000000
+      internalID: 7671459106730335754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_frunning_flower_1
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 5024
+        width: 4825
+        height: 4346
+      alignment: 9
+      pivot: {x: 0.46880904, y: 0.6623216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd66346bef73c83a0800000000000000
+      internalID: -6661888181668714785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_frunning_flower_2
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 10311
+        width: 4863
+        height: 4448
+      alignment: 9
+      pivot: {x: 0.43739623, y: 0.63688934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a76e97ff6e30a30800000000000000
+      internalID: 4180438864066148943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_frunning_flower_3
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 15592
+        width: 4689
+        height: 4587
+      alignment: 9
+      pivot: {x: 0.45205817, y: 0.61551964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eea653f2218d5050800000000000000
+      internalID: 5790926682979741414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_frunning_flower_4
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 21201
+        width: 4919
+        height: 3953
+      alignment: 9
+      pivot: {x: 0.4858851, y: 0.70323914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3674e7f22320220800000000000000
+      internalID: 2450576326806430685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_frunning_flower_5
+      rect:
+        serializedVersion: 2
+        x: 6940
+        y: 0
+        width: 4856
+        height: 4444
+      alignment: 9
+      pivot: {x: 0.5367639, y: 0.6637794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cd041eaa25e9400800000000000000
+      internalID: 332794316349037636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_frunning_flower_6
+      rect:
+        serializedVersion: 2
+        x: 6868
+        y: 5075
+        width: 4928
+        height: 4299
+      alignment: 9
+      pivot: {x: 0.53622675, y: 0.6852753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6d757a18c54ae40800000000000000
+      internalID: 5666755943067014839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_frunning_flower_7
+      rect:
+        serializedVersion: 2
+        x: 6607
+        y: 10612
+        width: 5189
+        height: 4846
+      alignment: 9
+      pivot: {x: 0.59216875, y: 0.6219143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64ea591dc9536280800000000000000
+      internalID: -9051292088656010131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_frunning_flower_8
+      rect:
+        serializedVersion: 2
+        x: 6555
+        y: 15562
+        width: 5241
+        height: 4664
+      alignment: 9
+      pivot: {x: 0.5509952, y: 0.6206394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c0ad5c0747f1db0800000000000000
+      internalID: -4819005048558580591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_frunning_flower_9
+      rect:
+        serializedVersion: 2
+        x: 6920
+        y: 20800
+        width: 4876
+        height: 4351
+      alignment: 9
+      pivot: {x: 0.50865465, y: 0.67134666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5ef0349d9f5d720800000000000000
+      internalID: 2870475049046894054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

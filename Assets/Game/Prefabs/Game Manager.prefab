@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &735978885100906178
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 735978885100906176}
+  - component: {fileID: 735978885100906179}
+  m_Layer: 0
+  m_Name: Game Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &735978885100906176
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 735978885100906178}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.75806063, y: -0.37380615, z: -0.053525724}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &735978885100906179
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 735978885100906178}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 294d5929ac00b4a39b5cdbb938bbc965, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  appsFlyerObj: {fileID: 0}
+  player: {fileID: 0}
+  trailGenerator: {fileID: 0}
+  cinemachineCamera: {fileID: 0}
+  initailForwardSpeed: 5
+  maxForwardSpeed: 8
+  sidesSpeed: 3
+  pointsTimeGap: 0.1
+  forwordSpeedAddition: 0.005
+  minScreenUnitsForSwip: 200
+  gameStartPoint: {x: 0, y: 0, z: 0}
+  scoreText: {fileID: 0}
+  initailFlyDistance: 35
+  jumpDistance: 7
+  addExtraButterfliesButton: {fileID: 0}
+  extraButterfliesCountText: {fileID: 0}
+  trailsNumberForLevelAchieved: 5
+  playerLostScreen: {fileID: 0}
+  currentScoreLostText: {fileID: 0}
+  highestScoreLostText: {fileID: 0}
+  playerLostButton: {fileID: 0}
