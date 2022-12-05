@@ -1,4 +1,5 @@
 # appsflyer-unity-sample-app
+<img src="Docs/Images/advertising-poster.png" width="1000">
 
 ## Make It Your Own
 ### 1. Choose a custom package name(Android) or bundle identifier(iOS) 
