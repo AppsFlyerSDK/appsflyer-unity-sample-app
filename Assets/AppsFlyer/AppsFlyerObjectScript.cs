@@ -104,8 +104,6 @@ public class AppsFlyerObjectScript : MonoBehaviour , IAppsFlyerConversionData, I
 
         // start the SDK
         AppsFlyer.startSDK();
-   
-       
     }
 
 
@@ -174,12 +172,12 @@ public class AppsFlyerObjectScript : MonoBehaviour , IAppsFlyerConversionData, I
                         deepLinkParamsDictionary = deepLinkEventArgs.deepLink;
                         #endif
 
-                        // the campaign manager and the developer have to agree on the meaning for each key of the Deep Link parameters
+                        // the campaign manager and the developer have to agree on the meaning for each key of the DeepLink parameters
                         // In this app:
                         // deep_link_value is the start level
                         // deep_link_sub1 is the quantity of the extra buterflies
                         // deep_link_sub2 is the extra points
-                        // deep_link_sub3 is the referrer name if the link is a user invite link
+                        // deep_link_sub3 is the referrer name in case of a user-invite DeepLink
 
                         if (deepLinkParamsDictionary != null)
                         {
@@ -227,8 +225,7 @@ public class AppsFlyerObjectScript : MonoBehaviour , IAppsFlyerConversionData, I
 
 #endregion
 
-
-#region In App Events
+#region In-App Events
         /** custom method to generate User Invite link **/
         public void SendLevelAchievedEvent(string levelName, string score)
         {
@@ -242,7 +239,6 @@ public class AppsFlyerObjectScript : MonoBehaviour , IAppsFlyerConversionData, I
         }
 
 #endregion
-
 
 #region User Invite
 
@@ -286,8 +282,6 @@ public class AppsFlyerObjectScript : MonoBehaviour , IAppsFlyerConversionData, I
     {
         AppsFlyer.AFLog("onOpenStoreLinkGenerated", link);
     }
-
-
 
 #endregion
 }
