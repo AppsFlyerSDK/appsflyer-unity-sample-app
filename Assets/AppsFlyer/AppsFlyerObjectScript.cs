@@ -31,8 +31,7 @@ public class AppsFlyerObjectScript : MonoBehaviour , IAppsFlyerConversionData, I
     #endregion
 
     #region AppsFlyer Related Properties
-
-
+    
     public string UserInviteLink
     {
         get => _userInviteLink;
@@ -49,7 +48,6 @@ public class AppsFlyerObjectScript : MonoBehaviour , IAppsFlyerConversionData, I
     }
 
     #endregion
-
 
     #region Game Mechanics Fields
 
@@ -86,7 +84,6 @@ public class AppsFlyerObjectScript : MonoBehaviour , IAppsFlyerConversionData, I
         }
 
     #endregion
-
 
     void Start()
     {
