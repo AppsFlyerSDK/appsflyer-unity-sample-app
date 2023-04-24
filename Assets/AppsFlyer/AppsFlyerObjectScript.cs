@@ -123,7 +123,7 @@ public class AppsFlyerObjectScript : MonoBehaviour , IAppsFlyerConversionData, I
 
         /** This section is for Legacy Links Users Only. if you don't use it you can skip this implementation **/
 
-        // af_status and is_first_launch always recieved with onConversionDataSuccess, no need to check if the keys exist
+        // af_status and is_first_launch always received with onConversionDataSuccess, no need to check if the keys exist
         string afStatus = _conversionDataDictionary["af_status"].ToString();
         bool isFirstLaunch = (bool)_conversionDataDictionary["is_first_launch"];
 
