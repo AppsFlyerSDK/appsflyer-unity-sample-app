@@ -279,7 +279,6 @@ public class AppsFlyerObjectScript : MonoBehaviour , IAppsFlyerConversionData, I
             _deepLinkParamsDictionary.Add("Start Level", _startLevel);
         }
         // **only for Legacy Links users** if not, search for the custom param that replaces the deep_link_value.
-        // use this condition only if you use Legacy links(Links without deep_link_value)
         else if (deepLinkParamsDictionary.TryGetValue("start_level", out var startLevelObj) && int.TryParse(startLevelObj?.ToString(), out var startLevel))
         {
             _startLevel = startLevel;
@@ -291,8 +290,6 @@ public class AppsFlyerObjectScript : MonoBehaviour , IAppsFlyerConversionData, I
             // onDeepLink(UDL) cant handle Extended Deferred DeepLinking, mark to the onConversionDataSuccess to process it
             _deferred_deep_link_processed_flag = false;
         }
-
-
         // check for others DeepLink params
         if (deepLinkParamsDictionary.TryGetValue("deep_link_sub1", out var extraButterfliesBonusObj))
         {
