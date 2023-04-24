@@ -19,7 +19,6 @@ public class AppsFlyerObjectScript : MonoBehaviour , IAppsFlyerConversionData, I
     public bool getConversionData;
     //******************************//
 
-
     #region AppsFlyer Related Fields
 
     private bool _didReceivedDeepLink; // marks if we got a DL and processed it
@@ -93,7 +92,6 @@ public class AppsFlyerObjectScript : MonoBehaviour , IAppsFlyerConversionData, I
         AppsFlyer.initSDK(devKey, appID, getConversionData ? this : null);
 
         //******************************/
-
 
         // set a custom method to handle deep link received - only on deep linking implementation
         AppsFlyer.OnDeepLinkReceived += OnDeepLink;
@@ -200,7 +198,7 @@ public class AppsFlyerObjectScript : MonoBehaviour , IAppsFlyerConversionData, I
                 {
                     AppsFlyer.AFLog("OnDeepLink", "This is a deferred deep link");
                     // **only for Legacy Links users**
-                    // lets the onConversionDataSuccess know we got the Deffered Deep Link ans assume we can process it
+                    // lets the onConversionDataSuccess know we got the Deferred Deep Link and assume we can process it
                     // this can be changed later on if we got an Extended Deferred DeepLinking that can not be processed by UDL
                     // we will know the type of the DDL only on the ParseDeepLinkParams() method
                     _deferred_deep_link_processed_flag = true;
