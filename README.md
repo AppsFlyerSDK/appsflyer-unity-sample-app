@@ -30,7 +30,7 @@ Go to your AppsFlyer account and create an iOS or Android app(or both). Learn mo
 - For iOS - add the subdomain to the associated domains in Xcode before runing the app. Learn more [here](https://dev.appsflyer.com/hc/docs/initial-setup-2#enabling-associated-domains).
 
 ### 6. User Invite(optional)
-Take your custom template ID and insert it in `Start()` method of the `AppsFlyerObjectScript` object. You can find the script in `Assets/AppsFlyer/AppsFlyerObjectScript.cs`.
+Copy your custom template ID and paste it in the `Start()` method of the `AppsFlyerObjectScript` object. You can find the script in `Assets/AppsFlyer/AppsFlyerObjectScript.cs`.
 
 <img src="Docs/Images/user-invite.png" width="650">
 
