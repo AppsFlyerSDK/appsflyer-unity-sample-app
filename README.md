@@ -5,8 +5,8 @@
 ### 1. Choose a custom package name(Android) or bundle identifier(iOS) 
 For you to run and test this project locally, you'll need to change the package name/bundle identifier of the Unity project.
 
-<img src="Docs/Images/android_package.png" width="550">
-<img src="Docs/Images/ios_bundle.png" width="550">
+<img src="Docs/Images/android-package-name.png" width="550">
+<img src="Docs/Images/ios-bundle-identifier.png" width="550">
 
 ### 2. Create apps on Appsflyer account
 Go to your AppsFlyer account and create an iOS or Android app(or both). Learn more [here](https://support.appsflyer.com/hc/en-us/articles/207377436-Adding-a-new-app#:~:text=Adding%20an%20app,click%20the%20Add%20app%20button).
