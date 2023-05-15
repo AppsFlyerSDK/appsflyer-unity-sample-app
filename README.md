@@ -22,7 +22,7 @@ Go to your AppsFlyer account and create an iOS or Android app(or both). Learn mo
 - Create a new OneLink custom link.
 - In the new link:
   - Set the `deep link value` to your desired start level(use `1` for the first level or `2` for the second level).
-  - Under the *Additional Parameters* section, add a custom parameter name `deep_link_sub1` to the number of extra butterflies you want to gift the user.
+  - Under the *Additional Parameters* section, add a custom parameter name `deep_link_sub1` with the number of extra butterflies you want to gift the user.
   - Add another parameter name `deep_link_sub2` and set it to the number of extra points you want to gift the user.
 ### 5. Associated Domains
 - Copy your template subdomain(with the extension `.onelink.me`). 
