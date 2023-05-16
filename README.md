@@ -1,9 +1,8 @@
-# appsflyer-unity-sample-app
 <img src="Docs/Images/advertising-poster.png" width="1000">
 
 ## Make It Your Own
 ### 1. Choose a custom package name(Android) or bundle identifier(iOS) 
-For you to run and test this project locally, you'll need to change the package name/bundle identifier of the Unity project.
+To run and test this project locally, you'll need to change the package name/bundle identifier of the Unity project.
 
 <img src="Docs/Images/android-package-name.png" width="550">
 <img src="Docs/Images/ios-bundle-identifier.png" width="550">
@@ -12,8 +11,8 @@ For you to run and test this project locally, you'll need to change the package 
 Go to your AppsFlyer account and create an iOS or Android app(or both). Learn more [here](https://support.appsflyer.com/hc/en-us/articles/207377436-Adding-a-new-app#:~:text=Adding%20an%20app,click%20the%20Add%20app%20button).
 
 ### 3. Add your dev key to AppsFlyerObject
-- Change the `Dev Key` to your own key. 
-- If you are using iOS app add the `App ID`. Else do not change the App ID.
+- Change the `Dev Key` to your key. 
+- If you are using an iOS app, add the `App ID`. Else, do not change it.
 
 <img src="Docs/Images/dev-key.png" width="650">
 
@@ -35,7 +34,7 @@ Copy your custom template ID and paste it in the `Start()` method of the `AppsFl
 <img src="Docs/Images/user-invite.png" width="650">
 
 ### 7. Build your app and run it on your device
-> For the AppsFlyer unity plugin to work, you will need to run the app on a real iOS or Android device(and not a simulated one).
+> We highly recommend running and testing your app on a real iOS or Android device(and not a simulated one).
 
 ### 8. Click your link, invite a friend and get the highest score! 
 - Now that your app is running, click the link and see your DeepLink values under the **Referral Bonuses** window.
